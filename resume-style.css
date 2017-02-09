@@ -1,0 +1,43 @@
+/*  style sheet for resume.html */
+
+body {
+    background-color: white;
+    font-family: Helvetica;
+    font-weight: 300;
+    color: black    
+}
+
+
+h1 {
+    font-weight: 400; 
+    margin-left: 3%;
+}
+
+h2 {
+    margin-left: 3%;
+    font-weight: 400; 
+}
+
+h3 {
+    margin-left: 5%;
+    font-weight: 300; 
+}
+
+p {
+    margin-left: 5%;
+    font-weight: 300; 
+}
+
+#school {
+    font-weight: bolder;
+}
+.title {
+    margin-left: 5%;
+    font-weight: bolder;
+
+}
+
+li {
+    margin-left: 5%;
+    font-weight: 300; 
+}

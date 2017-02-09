@@ -1,0 +1,62 @@
+/*  style sheet for index.html */
+
+body {
+    background-color: white;
+    font-family: Helvetica;
+    font-weight: 300;
+    background-color: #1f405f;
+}
+
+h1 {
+    position: relative; 
+    bottom: -300px;
+    color: #333366;
+    font-weight: 400; 
+    font-size: 100px;
+    margin-left: 67%;
+    color: white;
+    vertical-align: -500%;
+}
+
+img {
+    width: 50%;
+    margin-left: 2%;
+
+}
+
+a:link, a:hover, a:visited, a:active {
+    
+    font-size: 50px;
+    margin-left: 11%;
+    font-weight: 500;
+    position: relative;
+    color: white;
+    bottom: 250px;
+    text-decoration: none;
+    background-color: grey;
+    padding: 1%;
+}
+
+a:hover {
+
+    color: #1f405f;
+}
+/*
+
+#resume_link {
+    position: relative;
+    left: 30px;
+    font-weight: 700;
+    background-color: blue;   
+    margin-left: 5%;
+    color: gray; 
+    padding: 2%;
+}
+#bio_link {
+    margin-left: 5%;
+    font-weight: 700;
+    color: gray; 
+    padding: 2%;
+
+}
+*/
